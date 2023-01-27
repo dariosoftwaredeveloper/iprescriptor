@@ -34,4 +34,4 @@ Este proyecto es de código abierto y estamos encantados de recibir contribucion
 
 Licencia
 
-Este proyecto está disponible bajo la licencia [MIT](https://github.com/
+Este proyecto está disponible bajo la licencia [MIT](https://github.com/dariosoftwaredeveloper/iprescriptor/)
