@@ -1,6 +1,6 @@
 # iprescriptor
 
-Proyecto: Sistema de recomendación de precipcion de medicamentos
+Sistema de recomendación de prescipcion de medicamentos
 
 Descripción
 
