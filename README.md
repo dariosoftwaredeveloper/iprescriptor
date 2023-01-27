@@ -1,5 +1,8 @@
 # iprescriptor
 
+Nota: Este proyecto esta en construccion, aun no esta funcional, una vez este funcional quitare esta anotacion, gracias.
+
+
 Sistema de recomendación de prescipcion de medicamentos
 
 Descripción
